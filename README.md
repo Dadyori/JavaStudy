@@ -1,1 +1,1 @@
-# JavaStudy
+# Java Programming Study
