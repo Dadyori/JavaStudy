@@ -1,4 +1,4 @@
-public class PrintClassHi {
+public class Day01 {
     public static void main(String[] args) {
         //checkTime (2-1)
         System.out.println("Hi");
